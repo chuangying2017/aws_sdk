@@ -1,0 +1,6 @@
+{
+    "require": {
+        "aws/aws-sdk-php": "^3.158",
+      "ext-imagick": "*"
+    }
+}
